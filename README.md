@@ -1,2 +1,2 @@
 # StormPathIdSiteKatonDirect
-StormPathIdSiteKatonDirect
+StormPath IdSite for KatonDirect
